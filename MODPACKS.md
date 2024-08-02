@@ -36,12 +36,12 @@ These modpacks are specially made for PojavLauncher, but it doesn't mean you can
 
 2. Press the "+" button
 
-<img src="/images/Actions/ios/2.png" width=25% height=25%>
+<img src="https://raw.githubusercontent.com/Dev1ss0/Dev1ss0.github.io/main/images/Actions/ios/2.png" width=25% height=25%>
 
 3. Once a prompt appears, press the "Modpack" option.
 
-<img src="/images/Actions/ios/3.png" width=25% height=25%>
+<img src="https://raw.githubusercontent.com/Dev1ss0/Dev1ss0.github.io/main/images/Actions/ios/3.png" width=25% height=25%>
 
 4. Pick your desired modpack, enjoy!
 
-<img src="/images/Actions/ios/4.png" width=25% height=25%>
+<img src="https://raw.githubusercontent.com/Dev1ss0/Dev1ss0.github.io/main/images/Actions/ios/4.png" width=25% height=25%>
