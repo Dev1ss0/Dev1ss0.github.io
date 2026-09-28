@@ -1,8 +1,7 @@
 # Cloudflare Pages build configuration
-# If your project is static (Jekyll output), set these fields in the Pages UI instead:
-# Build command: bundle exec jekyll build
-# Output directory: _site
-
 [build]
 command = "bundle exec jekyll build"
 output_dir = "_site"
+
+[build.environment]
+BUNDLE_WITHOUT = ""
